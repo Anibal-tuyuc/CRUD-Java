@@ -1,0 +1,2 @@
+A002,Camaras 2mpx,250.0
+A001,Camara 1 MPX,150.0,15.0
